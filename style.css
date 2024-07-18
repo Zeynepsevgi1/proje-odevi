@@ -1,0 +1,10 @@
+h1{
+    font-style: italic;
+}
+.p-1{
+    font-size: large;
+    font-weight: 600;
+}
+.icon-border{
+    border-radius: 10px;
+}
